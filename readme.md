@@ -118,5 +118,5 @@ class Book extends Model
 ```
 
 
-###### Developed by: [Mahesh Rao](https://brainlabsweb.com)
+###### Developed by: [Mahesh](https://brainlabsweb.com)
     
