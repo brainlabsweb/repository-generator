@@ -1,5 +1,13 @@
 # Generates Repository
 
+
+## Install
+
+`composer require brainlabsweb/repository-generator`
+
+
+## Command to generate Respository Pattern
+
 ``php artisan make:repository <Name>``
 
 Optional Params
